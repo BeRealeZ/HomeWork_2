@@ -1,0 +1,15 @@
+
+.square{
+  display: flex;
+  width: 200px;
+  height: 200px;
+}
+
+.squares{
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  justify-content: center;
+  margin-top: 300px;
+}
+
